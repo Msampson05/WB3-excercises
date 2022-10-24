@@ -45,6 +45,7 @@ console.log("Your remaining balance: $" + theAmountDue);
 
 
 
+
     addNumbers(thenum1,thenum2);
     displayReceipt(theChangeDue, theAmountDue);
     displayMailingLabel(thename, theaddress, thecity, thestate, thezip);
