@@ -49,12 +49,6 @@ function displayLastName(fullname){
 
 
 
-
-
-
-
-
-
 }
 
 parseAndDisplayName("Cher");
